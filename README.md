@@ -26,3 +26,13 @@ keyfeatures of neww.py and 2.php is that it can auto detect cheapest product
 
 Bigus Dickus, [07/12/2025 12:38]
 autoshopify does requires proxy cause all shopify sites use same endpoint to charge I had kept stripe auth also with proxy to avoid rate limit but you can remove it if you want to + you can directly just use st.py which is stripe auth gate
+
+!! Sk Lookup:
+
+Sk: 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
+Pk: pk_live_51RLOf3G4WSpy7SHQP02GkGHsoKmXAsrpnJcGEzLwykNYX8pbw1grKFEnyx0kZbb6vEheshVMjUhum69atT5vUKGp00rz4iLKdC
+↳ Status: LIVE KEY ✅
+↳ Currency: gbp
+↳ Balance: 1855.26
+
+Executed in 4.39s
